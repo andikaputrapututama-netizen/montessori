@@ -1,0 +1,6 @@
+{
+  "name": "Montessori Bahasa - Platform Pembelajaran Guru PAUD",
+  "description": "Platform pembelajaran profesional untuk guru PAUD dalam memahami, mempraktikkan, dan merefleksikan stimulasi Montessori Bahasa di kelas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
